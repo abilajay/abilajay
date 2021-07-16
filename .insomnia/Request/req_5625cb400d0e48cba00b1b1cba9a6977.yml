@@ -1,0 +1,21 @@
+_id: req_5625cb400d0e48cba00b1b1cba9a6977
+type: Request
+parentId: wrk_a3132e787c8f4df188e11cd04da96ca1
+modified: 1626437802783
+created: 1626437780200
+url: https://reqres.in/api/users?page=2
+name: My Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1626437780200
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
